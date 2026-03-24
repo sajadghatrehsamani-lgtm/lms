@@ -7,7 +7,9 @@ import SignUp from "./pages/SignUp";
 function App() {
   return (
     <Router>
-    
+      <nav>
+        <Link to="/">Home</Link> | <Link to="/login">Login</Link> | <Link to="/signup">Sign Up</Link>
+      </nav>
 
       <Routes>
         <Route path="/" element={<Home />} />
