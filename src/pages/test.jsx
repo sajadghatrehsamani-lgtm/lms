@@ -1,1 +1,1 @@
-<p>ICT729 Capstone project</p>
+<p>ICT729</p>
